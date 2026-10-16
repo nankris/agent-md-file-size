@@ -1,0 +1,5 @@
+variant,claude_md_bytes,n,passed,total_tokens_mean,first_prompt_mean,output_mean,final_reply_words_mean,turns_mean,est_cost_mean,wall_mean,output_vs_none_pct,cost_vs_none_pct
+none,0,5,5,78522,16470,671.2,105.6,4,0.1247,10.3,0.0,0.0
+short619,621,5,5,77521,16808,403.2,16.6,4,0.1125,9.6,-39.9,-9.8
+agents25,736,5,5,71288,16900,432,39.6,3.4,0.1384,8.4,-35.6,11.0
+bloated,37871,5,5,122441,27519,653,86.8,4.4,0.2186,12.1,-2.7,75.3
